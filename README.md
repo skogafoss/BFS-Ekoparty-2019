@@ -1,2 +1,2 @@
 # BFS-Ekoparty-2019
-Solution to BFS Ekoparty 2019 Exploitation Challenge
+Solution for BFS Ekoparty 2019 Exploitation Challenge
